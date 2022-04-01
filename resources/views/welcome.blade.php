@@ -67,7 +67,7 @@
                 <div class="col-sm-12 col-md-4">
                     <div class="d-flex align-items-center flex-column bd-highlight mb-3" style="height: 100%">
                         <div class="mt-auto p-2 bd-highlight">
-                            <a href="" class="btn btn-primary blueCont w-100 rounded-pill">Mas informacion</a>
+                            <a href="#info" class="btn btn-primary blueCont w-100 rounded-pill">Mas informacion</a>
                         </div>
                     </div>
                 </div>
